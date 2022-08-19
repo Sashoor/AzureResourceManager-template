@@ -1,0 +1,2 @@
+# AzureResourceManager-template
+# AzureResourceManager-template
